@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ <h1>ing\ search</h1>\r\n\ <p>\r\n\ This\ program\ finds\ where\ in\ the\ dictionary\ a\ certain\ -ing\ word\ is\r\n\ </p>\r\n\r\n\ @author\ Eli\ Wood\r\n\ @version\ v100\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list\ target
+comment2.target=int\ linearSearch(java.util.ArrayList,\ java.lang.String)
+comment2.text=\r\n\ <h1>linear\ search</h1>\r\n\ <p>\r\n\ This\ function\ finds\ where\ the\ target\ is\ in\ the\ text\ file\r\n\ </p>\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ v100\r\n
+numComments=3
